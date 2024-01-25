@@ -4,6 +4,7 @@ The Weather Flutter project
 
 - MVVM Architecture
 - State Management (GetX)
+- HTTP requests (http)
 
 [//]: # (- - Dependency Injection &#40;get_it&#41;)
 
