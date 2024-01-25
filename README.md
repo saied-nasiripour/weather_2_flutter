@@ -2,6 +2,8 @@
 
 The Weather Flutter project
 
+- Responsive UI
+- Supported platforms: iOS, Android, Web
 - MVVM Architecture
 - State Management (GetX)
 - HTTP requests (http)
